@@ -1,0 +1,39 @@
+li {
+	display: inline;
+	padding: 0px 0px 0px 15px;
+}
+
+ul {
+	float: right;
+	padding: 0px 30px;
+	font-size: 13px;
+	margin: 8px 0px;
+	font-family: arial, sans-serif; 
+}
+
+#sign-in {
+	background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+	text-decoration: none;
+	color: #fff;
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	padding: 0px 12px;
+	display: inline-block;
+	line-height: 28px;
+	border-radius: 2px;
+
+}
+
+a #sign-in:hover {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: rgba(0, 0, 0, 0.75);
+}
+
+li a {
+	text-decoration: none;
+	color: rgba(0,0,0,0.87);
+}
